@@ -29,6 +29,7 @@ def max_el(l):
 print(max_el(l))
 
 l2 = [random.randint(0, 1000) for _ in range(100)]
+print(l2)
 
 def sum_el (l):
     """
